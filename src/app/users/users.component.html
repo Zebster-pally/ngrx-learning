@@ -1,0 +1,5 @@
+<div class="wrapper">
+  <div *ngFor = "let user of users | async">
+    <p>{{user.id}}. {{user.title}}</p>
+  </div>
+</div>

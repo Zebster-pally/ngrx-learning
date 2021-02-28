@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Andrey"
+    },
+    {
+      "id": 2,
+      "title": "Stepka"
+    },
+    {
+      "id": 3,
+      "title": "Maxik"
+    },
+    {
+      "id": 4,
+      "title": "Zekunter"
+    },
+    {
+      "id": 5,
+      "title": "Himlo"
+    },
+    {
+      "id": 6,
+      "title": "Kto-to"
+    }
+  ]
+}
